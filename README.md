@@ -1,11 +1,11 @@
 # CNN-learning
 
 Libraries used
-OpenCV
-Numpy
-Pillow
+1. OpenCV
+2. Numpy
+3. Pillow
 
 Tools used
-Colab
-Jupyter Notebook
-Pycharm
+1. Colab
+2. Jupyter Notebook
+3. Pycharm
